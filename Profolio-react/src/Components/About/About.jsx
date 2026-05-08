@@ -59,8 +59,16 @@ const About = () => {
                 I am a passionate and detail-oriented developer with a strong interest in 
                 <strong> full-stack web development</strong>, specializing in front-end 
                 technologies like <strong>React</strong> and back-end development using 
-                <strong> Node.js</strong>. I enjoy building efficient, user-friendly 
-                applications by combining clean code with practical functionality.
+                <strong> Node.js</strong> and <strong>Laravel</strong>. I enjoy building 
+                efficient, user-friendly applications by combining clean code with 
+                practical functionality.
+              </p>
+              <p>
+                One of my recent projects is a <strong>full-stack Inventory Management 
+                System</strong> built with <strong>Next.js</strong> and <strong>Laravel</strong>, 
+                featuring role-based authentication using Laravel Sanctum, real-time 
+                borrowing tracking, audit logging, and a fully responsive dark-themed 
+                dashboard — deployed on <strong>Vercel</strong> and <strong>Railway</strong>.
               </p>
               <p>
                 I am continuously improving my skills by exploring modern web technologies 
@@ -71,6 +79,8 @@ const About = () => {
               <div className="about-tags">
                 <span className="tag">Full-Stack Development</span>
                 <span className="tag">React.js</span>
+                <span className="tag">Next.js</span>
+                <span className="tag">Laravel</span>
                 <span className="tag">Node.js</span>
                 <span className="tag">UI/UX Design</span>
                 <span className="tag">Problem Solving</span>
